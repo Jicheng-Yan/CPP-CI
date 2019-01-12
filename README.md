@@ -1,4 +1,3 @@
-# Modern C++ Continuous Integration
 
 This project is illustrating [this blog post](https://juan-medina.com/2017/07/01/moderncppci/).
 
